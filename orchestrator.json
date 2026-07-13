@@ -1,5 +1,5 @@
 {
-  "epoch": 1,
+  "epoch": 2,
   "forks": [],
   "mirrors": [
     "git+https://github.com/cloudripper/rigel-leo"
@@ -8,7 +8,7 @@
   "root_public_key": "ed25519:u7JKqLv7z8SX+9+yBJZANS3eNqdunC8lxdfcy6AyU3M=",
   "schema": 1,
   "self": "git+https://github.com/cloudripper/rigel-leo",
-  "signature": "ed25519:grB4z73buS0xOWZGUECgCEu74K+bH/+xPp1jXW2oy/jhmF3R4OfQwvaHUb8FwATWaNvSWkK9QbKqcp1bxfwIDA==",
+  "signature": "ed25519:e93W0nt1cL3e1BCA5FACQsBUqtstJT+OXc+Go4mVTGiPTJkfHUX6WP23PVW2z12gHOQF4J/rZ0Pew0p2QKqCDw==",
   "successor": null,
   "version": 1
 }

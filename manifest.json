@@ -1,8 +1,21 @@
 {
-  "epoch": 1,
+  "epoch": 2,
   "manifest_version": "provision-20647",
   "not_after": 0,
   "schema": 1,
-  "signature": "ed25519:TAJIpWLjoE10shXRl7df9c3kGLYm11B/iiAHszDULZ6qWG3JKgcQTvY/EdT6oDm6N/dLqlTcfkS4bzEVJGa2CQ==",
-  "tasks": []
+  "signature": "ed25519:fQKHgP33jKhGZ850QW5AsVeNOBEOncPSs40xqKu2ZkfEqdsur3FEl2DeldVpbdqkfeBIm5OAtzvuPs1LOokeDg==",
+  "tasks": [
+    {
+      "name": "init",
+      "platform": {
+        "arch": "amd64",
+        "os": "linux"
+      },
+      "recipe": {
+        "run": "printf init > \"$OUT/init.out\"",
+        "type": "command"
+      },
+      "version": "0.1.0"
+    }
+  ]
 }
