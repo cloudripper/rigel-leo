@@ -1,0 +1,8 @@
+{
+  "epoch": 1,
+  "manifest_version": "provision-20647",
+  "not_after": 0,
+  "schema": 1,
+  "signature": "ed25519:TAJIpWLjoE10shXRl7df9c3kGLYm11B/iiAHszDULZ6qWG3JKgcQTvY/EdT6oDm6N/dLqlTcfkS4bzEVJGa2CQ==",
+  "tasks": []
+}

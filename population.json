@@ -1,0 +1,17 @@
+{
+  "epoch": 1,
+  "estimates": [
+    {
+      "expected": 1,
+      "platform": {
+        "arch": "amd64",
+        "os": "linux"
+      },
+      "target_builders": 1
+    }
+  ],
+  "not_after": 0,
+  "schema": 1,
+  "signature": "ed25519:i8RTMbA9vgrpJfkELCcVqFwDK3SzyYWjL2F7dnukp7XiGgQro3cE21pKRzeXXr2XJWDHbIhIvQNN1uEHM9mLDA==",
+  "unclaimed_fallback_hours": 12
+}

@@ -1,0 +1,15 @@
+{
+  "epoch": 1,
+  "not_after": 0,
+  "registries": [
+    {
+      "id": "prod",
+      "kind": "s3",
+      "url": "s3+https://orbit-registry-rigel-leo.s3.us-east-1.amazonaws.com",
+      "weight": 1
+    }
+  ],
+  "roster_version": 1,
+  "schema": 1,
+  "signature": "ed25519:RDexROMgNG1L/0bPT3CALeYWlA3KRxFmdCALGbwvXpz1RHNe+WCf5+cjtPQqjC3QOM17xTtaQmome4NMkyrIDw=="
+}
