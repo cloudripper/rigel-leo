@@ -1,5 +1,5 @@
 {
-  "epoch": 2,
+  "epoch": 3,
   "estimates": [
     {
       "expected": 1,
@@ -12,6 +12,6 @@
   ],
   "not_after": 0,
   "schema": 1,
-  "signature": "ed25519:BXD8nWDm4TpCSZ5ldsqGNBKDJRwzPvtk1IGvaGlJJkJmKeb6BtrqZduT3uBXnkM+rqqSxNn7OsjbjGyeXTpRAg==",
+  "signature": "ed25519:DUdTvodx4gedfV6Bz3WEQTQ1YS8GvmRfjqfCSlGNLxfUhtGP8Gff0c535nwQzRWgQN5Q50Yh5dWCmbpBLDgjDA==",
   "unclaimed_fallback_hours": 12
 }
