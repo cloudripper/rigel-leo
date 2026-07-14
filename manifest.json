@@ -1,9 +1,9 @@
 {
-  "epoch": 4,
+  "epoch": 5,
   "manifest_version": "provision-20647",
   "not_after": 0,
   "schema": 1,
-  "signature": "ed25519:VS94i/cXng/qK0TV8BWUjCWaBNOb8ooosrFnW89T+Kp52xZCI4GF8iSQvQSXkaMoAAmAx8sism8f+nc0CSQmCw==",
+  "signature": "ed25519:Zta3UooyuvC/8DAR3yVag5awgF97AfsdOiPz6OJ/OxL3yl0a1ExVfYMN/IW3idGQAJ6UA43aJVrKB9EF93GqCA==",
   "tasks": [
     {
       "name": "init",
@@ -16,6 +16,18 @@
         "type": "command"
       },
       "version": "0.1.0"
+    },
+    {
+      "name": "init",
+      "platform": {
+        "arch": "amd64",
+        "os": "linux"
+      },
+      "recipe": {
+        "run": "printf init2 > \"$OUT/init.out\"",
+        "type": "command"
+      },
+      "version": "0.1.1"
     }
   ]
 }
