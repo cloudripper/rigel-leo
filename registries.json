@@ -1,5 +1,5 @@
 {
-  "epoch": 5,
+  "epoch": 6,
   "not_after": 0,
   "registries": [
     {
@@ -11,5 +11,5 @@
   ],
   "roster_version": 1,
   "schema": 1,
-  "signature": "ed25519:31LFsqo/LDEgUEjR7+sdrVuWUNSIV+EyjdFZtP/YkY8XHH+A1AsbQB/zaUJXekgfKCh7YQbVu+8HOj5a+FXbAQ=="
+  "signature": "ed25519:dzpNH8zbxmNP49/1Y6CyHLjjf6m0A6NNRRr0kZx+WTyj5lRNJzCq5O1NwcXU2Akp4bLdnGJk1kGVyVmJwN4TAg=="
 }

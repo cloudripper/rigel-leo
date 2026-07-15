@@ -1,0 +1,19 @@
+{
+  "core": {
+    "artifacts": [
+      {
+        "platform": {
+          "arch": "amd64",
+          "os": "linux"
+        },
+        "sha256": "d3f9779aef775842d0fc085dbf1c72a9fc342721bd06e46737ab1c60b1837023",
+        "url": "https://s3.us-east-1.amazonaws.com/orbit-registry-rigel-leo/core/satellite-core-0.13.1-linux-amd64"
+      }
+    ],
+    "version": "0.13.1"
+  },
+  "epoch": 6,
+  "not_after": 0,
+  "schema": 1,
+  "signature": "ed25519:9IVc1jlguonTHNIYT6C67gB/oyy0rsunpVXQTqKSeku6FD+LROxIgt7DBDP8tsdkKG0xMcRSGJgzvgKLJBWzDw=="
+}
